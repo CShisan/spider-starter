@@ -1,0 +1,37 @@
+{
+  "groups": [
+    {
+      "name": "spider",
+      "type": "com.shisan.spider.config.SpiderConfig",
+      "sourceType": "com.shisan.spider.config.SpiderConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spider.file-path",
+      "type": "java.lang.String",
+      "sourceType": "com.shisan.spider.config.SpiderConfig"
+    },
+    {
+      "name": "spider.file-prefix",
+      "type": "java.lang.String",
+      "sourceType": "com.shisan.spider.config.SpiderConfig"
+    },
+    {
+      "name": "spider.file-suffix",
+      "type": "java.lang.String",
+      "sourceType": "com.shisan.spider.config.SpiderConfig"
+    },
+    {
+      "name": "spider.template",
+      "type": "java.lang.String",
+      "sourceType": "com.shisan.spider.config.SpiderConfig"
+    },
+    {
+      "name": "spider.url",
+      "type": "java.lang.String",
+      "sourceType": "com.shisan.spider.config.SpiderConfig"
+    }
+  ],
+  "hints": []
+}
